@@ -1,0 +1,35 @@
+# Visual Studio files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.userprefs
+*.dbmdl
+*.log
+*.vsp
+*.pidb
+*.vspscc
+*.vssscc
+*.scc
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Visual Studio 2015 cache/options directory
+.vs/
